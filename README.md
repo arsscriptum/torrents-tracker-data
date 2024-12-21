@@ -39,4 +39,4 @@ Contains only the public data files fetch for versioning
 
 #### Database View
 
-![db](doc/dbview.png)
+![db](doc/img/dbview.png)
