@@ -45,6 +45,8 @@ Contains only the public data files fetch for versioning
 
 ## DEMO: Popular Title Search
 
+**NOTE** Yeah! I fixed that pop up message when the magneet link is sent to *qbittorrentvpn* (when I press download)
+
 ![db](doc/img/popular.gif)
 
 
