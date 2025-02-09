@@ -56,3 +56,6 @@ Contains only the public data files fetch for versioning
 I use **EXPRESS VPN** but with minor code changes, you can use your own VPN provider.
 
 ![db](doc/img/vpn.gif)
+
+
+**NOTE** In  order to reduce the video lenght, I removed the time after I reset the VPN location. This launches a script that will stop the docker container, change the docker-compose.yml file and restart the compose stack. It's not hugely long, but it'smore than  what's  shown. Like 30 seconds...
