@@ -40,3 +40,17 @@ Contains only the public data files fetch for versioning
 #### Database View
 
 ![db](doc/img/dbview.png)
+
+
+
+## DEMO: Popular Title Search
+
+![db](doc/img/popular.gif)
+
+
+
+## DEMO: VPN Server Selection
+
+I use **EXPRESS VPN** but with minor code changes, you can use your own VPN provider.
+
+![db](doc/img/vpn.gif)
